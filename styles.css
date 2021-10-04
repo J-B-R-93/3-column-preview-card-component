@@ -135,3 +135,8 @@ h2 {
     width: 80vw;
   }
 }
+@media (min-width: 93.75em) {
+  p {
+    font-size: 1.8rem;
+  }
+}
