@@ -8,11 +8,11 @@ This challenge is to practice using flex box.
 
 - HTML Structure
 - Basic CSS Properties:
-  -universal selector
-  -background color
-  -pseudo class (link, visited, hover and active)
-  -flex display (direction variation from row to column)
-  -media queries with several screen widths
+  - universal selector
+  - background color
+  - pseudo class (link, visited, hover and active)
+  - flex display (direction variation from row to column)
+  - media queries with several screen widths
 
 - Google Fonts
 
